@@ -21,3 +21,24 @@ Numerical datasets for the molecular-anyon study, organised by observable and fi
 - `LICENSE`: Usage terms for the released data.
 
 See each directory’s README before consuming the data—those notes document column definitions, sampling details, and suggestions for recomputing energies with alternative interactions.
+
+## Citing
+
+If you use this work, please cite the paper:
+
+```bibtex
+@article{scl5-8pv6,
+  title = {Molecular Anyons in the Fractional Quantum Hall Effect},
+  author = {Gattu, Mytraya and Jain, J. K.},
+  journal = {Phys. Rev. Lett.},
+  volume = {135},
+  issue = {23},
+  pages = {236601},
+  numpages = {7},
+  year = {2025},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/scl5-8pv6},
+  url = {https://link.aps.org/doi/10.1103/scl5-8pv6}
+}
+```

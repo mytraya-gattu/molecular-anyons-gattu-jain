@@ -1,0 +1,12 @@
+cff-version: "1.2.0"
+message: "If you use this repository or the results described here, please cite the paper below."
+title: "Molecular Anyons in the Fractional Quantum Hall Effect"
+authors:
+  - family-names: "Gattu"
+    given-names: "Mytraya"
+  - family-names: "Jain"
+    given-names: "J. K."
+doi: "10.1103/scl5-8pv6"
+url: "https://link.aps.org/doi/10.1103/scl5-8pv6"
+date-released: "2025-12-02"
+version: "v1"
